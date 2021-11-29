@@ -9,5 +9,7 @@ Just download source code and unzip the downloaded folder and opne project in Xc
 **Using Terminal:**
 ```
   git clone https://github.com/imjog/Calculator-iOS.git
+  
+  // committed new lines
   ```
 
